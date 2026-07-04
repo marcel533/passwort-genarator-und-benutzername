@@ -13,4 +13,6 @@ Einfach nutzen und weitergehen.
 Ideal für alle, die keine Zeit oder Lust haben, sich jedes Mal neue Passwörter oder Namen auszudenken.
  URL:https://marcel533.github.io/passwort-genarator-und-benutzername/
 
-(This webpage is 50% generated with AI)
+---
+
+This webpage is 50% generated with AI
